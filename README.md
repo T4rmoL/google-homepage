@@ -1,0 +1,1 @@
+This my first 'bigger' school project where I try to emulate as closely as my skillset allows Google.com homepage. Lets go!
